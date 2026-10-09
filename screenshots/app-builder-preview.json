@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Cuerpo y Color",
+      "hasCanvas": false,
+      "bodyTextLen": 1969,
+      "bodyTextHash": "0d606019bca4b4ee6e05b6e9c59bf25babdd624c791c3656f8e5101264f3d3ac",
+      "bodyTextPrefix": "SPANISH FLASHCARDS Cuerpo y Color Body parts, colors, questions,",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Cuerpo y Color",
+      "hasCanvas": false,
+      "bodyTextLen": 1969,
+      "bodyTextHash": "0d606019bca4b4ee6e05b6e9c59bf25babdd624c791c3656f8e5101264f3d3ac",
+      "bodyTextPrefix": "SPANISH FLASHCARDS Cuerpo y Color Body parts, colors, questions,",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
